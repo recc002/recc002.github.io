@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 2002010134吴依恩的个人简介
 
-You can use the [editor on GitHub](https://github.com/recc002/recc002.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人介绍
+姓名：吴依恩   性别：男 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+出生年月：2002年08月23日   
 
-### Markdown
+籍贯：汉族 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+专业：工商管理   
 
-```markdown
-Syntax highlighted code block
+政治面貌：群众    
 
-# Header 1
-## Header 2
-### Header 3
+电子邮件：1577008461qq.com
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 技能总结
+熟练掌握ms office、简单学习了dreamweaver知识、
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 兴趣爱好
+高尔夫、台球
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 教育背景
+现在在湖南工商大学就读大二
 
-### Jekyll Themes
+### 主修课程
+管理学、金融学、会计学、数学、
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/recc002/recc002.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 自我评价
+做事塌实认真，能吃苦耐劳；学习潜力强，能够很快的理解新事物；性格开朗，诚实正直，谦和自信，乐
+于进取乐于奉献，勤奋好学，用心上进，有较强的社会适应潜力。工作踏实，认真细致，具有强烈的事业
+心和工作职责心，善于处理人际关系，具有极佳的团队合作精神。
